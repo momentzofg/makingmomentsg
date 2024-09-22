@@ -1,0 +1,32 @@
+.coming-soon-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh; /* Adjust the height as needed */
+}
+
+.coming-soon-container img {
+    max-width: 100%;
+    margin-bottom: 20px;
+    max-height: 50%; /* Adjust the max-height as needed */
+    object-fit: cover;
+}
+  
+  .coming-soon-text {
+    font-family: Georgia, serif;
+    color: #fff9f9;
+  }
+  
+  .coming-soon-text h1 {
+    font-size: 48px;
+    color: #fff9f9;
+    margin-bottom: 10px;
+  }
+  
+  .coming-soon-text p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  

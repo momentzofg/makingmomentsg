@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 33vh;
+}
+
+
+.content {
+    text-align: left;
+    margin-left: 350px;
+    margin-top: 400px;
+}
+
+.welcome-message {
+    font-size: 77px;
+    font-family: Georgia, serif;
+    margin-bottom: 20px;
+    color: #fffefe;
+}
+
+.quote {
+    font-size: 18px;
+    font-family: Georgia, serif;
+    margin-bottom: 40px;
+    color: #fffefe;
+}
+
+.image {
+    width: 400px; /* Adjust image width as needed */
+    height: auto;
+    margin-right: 300px;
+    margin-top: 410px;
+}
