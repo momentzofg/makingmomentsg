@@ -1,9 +1,0 @@
-{
-  "routes": [
-    "/",
-    "/blogs",
-    "/connect",
-    "/images",
-    "/works"
-  ]
-}
