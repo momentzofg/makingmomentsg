@@ -2,10 +2,6 @@
     text-align: center;
     padding: 20px;
     font-family: Georgia, serif;
+    justify-content: center;
     color: #fffefe;
-  }
-  
-  .blog-coming-soon img {
-    max-width: 20%;
-    height: auto;
   }
